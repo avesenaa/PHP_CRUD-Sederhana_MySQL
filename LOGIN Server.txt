@@ -1,0 +1,8 @@
+LOGIN Server
+
+username : CekDataKamuYKS
+password : pyFEfAv5jVP8Zt8$UL7o
+
+Login Database db_sekolah
+username : avesena
+password : $jsy?x~JGd{9psMK
